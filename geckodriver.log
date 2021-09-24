@@ -1,0 +1,1786 @@
+1631730346917	geckodriver	INFO	Listening on 127.0.0.1:52948
+1631730703891	geckodriver	INFO	Listening on 127.0.0.1:53106
+1631730706941	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofilez83Uib"
+1631730707911	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofilez83Uib\\search.json.mozlz4", (void 0)))
+1631730712634	Marionette	INFO	Listening on port 53117
+1631730716135	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1631730723643	Marionette	INFO	Stopped listening on port 53117
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1631734588198	geckodriver	INFO	Listening on 127.0.0.1:53175
+1631734591306	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofilevIZyPV"
+1631734592924	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofilevIZyPV\\search.json.mozlz4", (void 0)))
+1631734596206	Marionette	INFO	Listening on port 53183
+1631734596658	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1631737780030	Marionette	INFO	Stopped listening on port 53183
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+\Temp\\rust_mozprofileqs7DlC"
+1631735389190	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileqs7DlC\\search.json.mozlz4", (void 0)))
+1631735393551	Marionette	INFO	Listening on port 63724
+1631735393956	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1631735410574	Marionette	INFO	Stopped listening on port 63724
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631735574679	geckodriver	INFO	Listening on 127.0.0.1:63856
+1631735577776	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofile1XdRVP"
+1631735578633	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofile1XdRVP\\search.json.mozlz4", (void 0)))
+1631735582499	Marionette	INFO	Listening on port 63865
+1631735582816	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1631735585397	Marionette	INFO	Stopped listening on port 63865
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 186: Error: Data is not ready.
+console.log: "RemoteSettingsWorker error: AbortError: IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort."
+console.error: "Could not load engine google@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2526\"  data: no]"
+console.error: "Could not load engine drae@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2526\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2526\"  data: no]"
+console.error: "Could not load engine bing@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2526\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2526\"  data: no]"
+console.error: "Could not load engine ebay@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2526\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: 2147500036
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 829: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1631736110364	geckodriver	INFO	Listening on 127.0.0.1:55194
+1631736113457	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileV5oWb5"
+1631736114440	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileV5oWb5\\search.json.mozlz4", (void 0)))
+1631736119965	Marionette	INFO	Listening on port 55205
+1631736120366	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1631737772925	Marionette	INFO	Stopped listening on port 55205
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+\Temp\\rust_mozprofile8d2Rwc"
+1631736957914	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofile8d2Rwc\\search.json.mozlz4", (void 0)))
+1631736962103	Marionette	INFO	Listening on port 55675
+1631736962268	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1631737758360	Marionette	INFO	Stopped listening on port 55675
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileqwKwEw\\search.json.mozlz4", (void 0)))
+1631737724129	Marionette	INFO	Listening on port 62609
+1631737724512	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+1631737762664	Marionette	INFO	Stopped listening on port 62609
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631738597479	geckodriver	INFO	Listening on 127.0.0.1:63140
+1631738599515	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileboIFwa"
+1631738600584	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileboIFwa\\search.json.mozlz4", (void 0)))
+1631738603486	Marionette	INFO	Listening on port 63149
+1631738603712	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1631740760959	Marionette	INFO	Stopped listening on port 63149
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002F,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+d/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1631740759045	Marionette	INFO	Stopped listening on port 63310
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002F,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+d/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1631740756931	Marionette	INFO	Stopped listening on port 63495
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+\Temp\\rust_mozprofileNga8xm"
+1631739833951	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileNga8xm\\search.json.mozlz4", (void 0)))
+1631739837219	Marionette	INFO	Listening on port 54191
+1631739837601	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1631740752540	Marionette	INFO	Stopped listening on port 54191
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3900E6,name=PContent::Msg_GraphicsError) Channel closing: too late to send/recv, messages will be lost
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1631740752144	Marionette	INFO	Stopped listening on port 54328
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+te	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofile0UOjjS\\search.json.mozlz4", (void 0)))
+1631740643348	Marionette	INFO	Listening on port 54826
+1631740643615	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+1631740751139	Marionette	INFO	Stopped listening on port 54826
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+\Temp\\rust_mozprofilejKbnqC"
+1631740723623	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofilejKbnqC\\search.json.mozlz4", (void 0)))
+1631740727178	Marionette	INFO	Listening on port 54972
+1631740727269	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+1631740746988	Marionette	INFO	Stopped listening on port 54972
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631740823569	geckodriver	INFO	Listening on 127.0.0.1:55096
+1631740826648	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofilekR28Dr"
+1631740827855	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofilekR28Dr\\search.json.mozlz4", (void 0)))
+1631740830424	Marionette	INFO	Listening on port 55107
+1631740831103	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1631746512716	Marionette	INFO	Stopped listening on port 55107
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002F,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+1631742562422	Marionette	INFO	Listening on port 51580
+1631742562950	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1631746511463	Marionette	INFO	Stopped listening on port 51580
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+ C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileWhq4uT\\search.json.mozlz4", (void 0)))
+1631742965237	Marionette	INFO	Listening on port 51865
+1631742965439	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1631746509768	Marionette	INFO	Stopped listening on port 51865
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+te	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileoIBBQN\\search.json.mozlz4", (void 0)))
+1631743579274	Marionette	INFO	Listening on port 58579
+1631743579420	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1631746508076	Marionette	INFO	Stopped listening on port 58579
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631746515737	geckodriver	INFO	Listening on 127.0.0.1:51581
+1631746518820	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileBNKeId"
+1631746520131	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileBNKeId\\search.json.mozlz4", (void 0)))
+1631746522447	Marionette	INFO	Listening on port 51590
+1631746522630	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+1631746536557	Marionette	INFO	Stopped listening on port 51590
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631746664913	geckodriver	INFO	Listening on 127.0.0.1:51719
+1631746667984	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileo5hY5m"
+1631746669029	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileo5hY5m\\search.json.mozlz4", (void 0)))
+1631746671817	Marionette	INFO	Listening on port 51729
+1631746672401	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1631756127341	Marionette	INFO	Stopped listening on port 51729
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 452))
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=23bb68b9000","state":{"remoteTypePrefix":"web"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3514,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","chrome://global/content/elements/browser-custom-element.js:get loadContext:386","chrome://global/content/elements/browser-custom-element.js:construct:1005","chrome://global/content/elements/browser-custom-element.js:connectedCallback:324","chrome://browser/content/tabbrowser.js:_setupInitialBrowserAndTab:408","chrome://browser/content/tabbrowser.js:init:50","chrome://browser/conconsole.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 452))
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=246f6b84000","state":{"remoteTypePrefix":"web"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3514,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","chrome://global/content/elements/browser-custom-element.js:get loadContext:386","chrome://global/content/elements/browser-custom-element.js:construct:1005","chrome://global/content/elements/browser-custom-element.js:connectedCallback:324","chrome://browser/content/tabbrowser.js:_setupInitialBrowserAndTab:408","chrome://browser/content/tabbrowser.js:init:50","chrome://browser/content/browser.js:onDOMContentLoaded:1685"]}] Barrier: profile-before-change
+/modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=16cffb53800","state":{"remoteTypePrefix":"web"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3514,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","chrome://global/content/elements/browser-custom-element.js:get loadContext:386","chrome://global/content/elements/browser-custom-element.js:construct:1005","chrome://global/content/elements/browser-custom-element.js:connectedCallback:324","chrome://browser/content/tabbrowser.js:_setupInitialBrowserAndTab:408","chrome://browser/content/tabbrowser.js:init:50","chrome://browser/content/browser.js:onDOMContentLoaded:1685"]}] Barrier: profile-before-change
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 452))
+: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=1b021a8e000","state":{"remoteTypePrefix":"web"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3514,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","chrome://global/content/elements/browser-custom-element.js:get loadContext:386","chrome://global/content/elements/browser-custom-element.js:construct:1005","chrome://global/content/elements/browser-custom-element.js:connectedCallback:324","chrome://browser/content/tabbrowser.js:_setupInitialBrowserAndTab:408","chrome://browser/content/tabbrowser.js:init:50","chrome://browser/content/browser.js:onDOMContentLoaded:1685"]}] Barrier: profile-before-change
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 452))
+/modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=1d1c6693000","state":{"remoteTypePrefix":"web"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3514,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","chrome://global/content/elements/browser-custom-element.js:get loadContext:386","chrome://global/content/elements/browser-custom-element.js:construct:1005","chrome://global/content/elements/browser-custom-element.js:connectedCallback:324","chrome://browser/content/tabbrowser.js:_setupInitialBrowserAndTab:408","chrome://browser/content/tabbrowser.js:init:50","chrome://browser/content/browser.js:onDOMContentLoaded:1685"]}] Barrier: profile-before-change
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 452))
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+e code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=1c6e0c16800","state":{"remoteTypePrefix":"web"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3514,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","chrome://global/content/elements/browser-custom-element.js:get loadContext:386","chrome://global/content/elements/browser-custom-element.js:construct:1005","chrome://global/content/elements/browser-custom-element.js:connectedCallback:324","chrome://browser/content/tabbrowser.js:_setupInitialBrowserAndTab:408","chrome://browser/content/tabbrowser.js:init:50","chrome://browser/content/browser.js:onDOMContentLoaded:1685"]}] Barrier: profile-before-change
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 452))
+sIUserIdleService.removeIdleObserver]
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=22474651800","state":{"remoteTypePrefix":"web"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3514,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","chrome://global/content/elements/browser-custom-element.js:get loadContext:386","chrome://global/content/elements/browser-custom-element.js:construct:1005","chrome://global/content/elements/browser-custom-element.js:connectedCallback:324","chrome://browser/content/tabbrowser.js:_setupInitialBrowserAndTab:408","chrome://browser/content/tabbrowser.js:init:50","chrome://browser/content/browser.js:onDOMContentLoaded:1685"]}] Barrier: profile-before-change
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 452))
+26advUuid%3DPM_UID%26gdpr%3D0%26gdpr_consent%3D, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://s.e-planning.net/esb/4/1/3fb8/69b1486c74a3b7dc/lotame.js, line 7: ReferenceError: _cc15238 is not defined
+1631756177533	Marionette	INFO	Stopped listening on port 54294
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\fity9\AppData\Local\Temp\rust_mozprofilex68dAX\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590007,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590007,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590007,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590007,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590007,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590007,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590007,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590007,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590007,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590007,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590007,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590007,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590007,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590007,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590007,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590007,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590007,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590007,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590007,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390142,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690014,name=PNecko::Msg_PredLearn) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690022,name=PNecko::Msg_RequestContextAfterDOMContentLoaded) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390142,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390142,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+1631756201373	geckodriver	INFO	Listening on 127.0.0.1:54501
+1631756204525	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofile0jk7jo"
+1631756205756	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofile0jk7jo\\search.json.mozlz4", (void 0)))
+1631756209864	Marionette	INFO	Listening on port 54511
+1631756210299	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1cNYsg18Ntl-dLR0EWIlBptOsTN7Mb0i9rJo18o3efQ.js line 1 > eval line 7783 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1631756256954	Marionette	INFO	Stopped listening on port 54511
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\fity9\AppData\Local\Temp\rust_mozprofile0jk7jo\protections.sqlite
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390142,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390142,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390142,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390142,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390142,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390142,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390142,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390142,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631756374887	geckodriver	INFO	Listening on 127.0.0.1:50597
+1631756377971	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileIQy9Qu"
+1631756379267	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileIQy9Qu\\search.json.mozlz4", (void 0)))
+1631756382820	Marionette	INFO	Listening on port 50607
+1631756383085	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1631758892390	Marionette	INFO	Stopped listening on port 50607
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+ C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileyQB6rn\\search.json.mozlz4", (void 0)))
+1631756473757	Marionette	INFO	Listening on port 50745
+1631756474057	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1631758894930	Marionette	INFO	Stopped listening on port 50745
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+ C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileCpRI2G\\search.json.mozlz4", (void 0)))
+1631756701288	Marionette	INFO	Listening on port 50927
+1631756701776	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1631758897190	Marionette	INFO	Stopped listening on port 50927
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+ C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileV9G43W\\search.json.mozlz4", (void 0)))
+1631756854443	Marionette	INFO	Listening on port 51137
+1631756855058	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1631758898877	Marionette	INFO	Stopped listening on port 51137
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+\Temp\\rust_mozprofileanr5Sr"
+1631758875959	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileanr5Sr\\search.json.mozlz4", (void 0)))
+1631758880284	Marionette	INFO	Listening on port 52158
+1631758880619	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1631762636944	Marionette	INFO	Stopped listening on port 52158
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 452))
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=2aae13a4800","state":{"remoteTypePrefix":"web"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3514,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","chrome://global/content/elements/browser-custom-element.js:get loadContext:386","chrome://global/content/elements/browser-custom-element.js:construct:1005","chrome://global/content/elements/browser-custom-element.js:connectedCallback:324","chrome://browser/content/tabbrowser.js:_setupInitialBrowserAndTab:408","chrome://browser/content/tabbrowser.js:init:50","chrome://browser/content/browser.js:onDOMContentLoaded:1685"]}] Barrier: profile-before-change
+) [nsIUserIdleService.removeIdleObserver]
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=212228d1800","state":{"remoteTypePrefix":"web"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3514,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","chrome://global/content/elements/browser-custom-element.js:get loadContext:386","chrome://global/content/elements/browser-custom-element.js:construct:1005","chrome://global/content/elements/browser-custom-element.js:connectedCallback:324","chrome://browser/content/tabbrowser.js:_setupInitialBrowserAndTab:408","chrome://browser/content/tabbrowser.js:init:50","chrome://browser/content/browser.js:onDOMContentLoaded:1685"]}] Barrier: profile-before-change
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 452))
+Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileNjVCfc"
+1631761134639	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileNjVCfc\\search.json.mozlz4", (void 0)))
+1631761139476	Marionette	INFO	Listening on port 53394
+1631761140039	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1631762641073	Marionette	INFO	Stopped listening on port 53394
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=176f1e46000","state":{"remoteTypePrefix":"web"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3514,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","chrome://global/content/elements/browser-custom-element.js:get loadContext:386","chrome://global/content/elements/browser-custom-element.js:construct:1005","chrome://global/content/elements/browser-custom-element.js:connectedCallback:324","chrome://browser/content/tabbrowser.js:_setupInitialBrowserAndTab:408","chrome://browser/content/tabbrowser.js:init:50","chrome://browser/content/browser.js:onDOMContentLoaded:1685"]}] Barrier: profile-before-change
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5034: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+name":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3514,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","chrome://global/content/elements/browser-custom-element.js:get loadContext:386","chrome://global/content/elements/browser-custom-element.js:construct:1005","chrome://global/content/elements/browser-custom-element.js:connectedCallback:324","chrome://browser/content/tabbrowser.js:_setupInitialBrowserAndTab:408","chrome://browser/content/tabbrowser.js:init:50","chrome://browser/content/browser.js:onDOMContentLoaded:1685"]}] Barrier: profile-before-change
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 452))
+n 127.0.0.1:54166
+1631762336873	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileXhBopJ"
+1631762338182	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileXhBopJ\\search.json.mozlz4", (void 0)))
+1631762343520	Marionette	INFO	Listening on port 54176
+1631762344031	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+1631762644347	Marionette	INFO	Stopped listening on port 54176
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=26e819b5000","state":{"remoteTypePrefix":"web"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3514,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","chrome://global/content/elements/browser-custom-element.js:get loadContext:386","chrome://global/content/elements/browser-custom-element.js:construct:1005","chrome://global/content/elements/browser-custom-element.js:connectedCallback:324","chrome://browser/content/tabbrowser.js:_setupInitialBrowserAndTab:408","chrome://browser/content/tabbrowser.js:init:50","chrome://browser/content/browser.js:onDOMContentLoaded:1685"]}] Barrier: profile-before-change
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 452))
+/modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=22657d52000","state":{"remoteTypePrefix":"web"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3514,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","chrome://global/content/elements/browser-custom-element.js:get loadContext:386","chrome://global/content/elements/browseJavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+1631762856929	Marionette	INFO	Stopped listening on port 49861
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=216212cb800","state":{"remoteTypePrefix":"web"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3514,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","chrome://global/content/elements/browser-custom-element.js:get loadContext:386","chrome://global/content/elements/browser-custom-element.js:construct:1005","chrome://global/content/elements/browser-custom-element.js:connectedCallback:324","chrome://browser/content/tabbrowser.js:_setupInitialBrowserAndTab:408","chrome://browser/content/tabbrowser.js:init:50","chrome://browser/content/browser.js:onDOMContentLoaded:1685"]}] Barrier: profile-beforJavaScriptconsole.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 452))
+1631763284266	Marionette	INFO	Stopped listening on port 50026
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=1ead2c80800","state":{"remoteTypePrefix":"web"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3514,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","chrome://global/content/elements/browser-custom-element.js:get loadContext:386","chrome://global/content/elements/browseJavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+1631763541732	Marionette	INFO	Stopped listening on port 50305
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 452))
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+" "-foreground" "-no-remote" "-profile" "C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileknDC64"
+1631763440670	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileknDC64\\search.json.mozlz4", (void 0)))
+1631763445242	Marionette	INFO	Listening on port 50451
+1631763445445	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+1631763547698	Marionette	INFO	Stopped listening on port 50451
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+\Temp\\rust_mozprofileqE1GNO"
+1631763532800	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileqE1GNO\\search.json.mozlz4", (void 0)))
+1631763543443	Marionette	INFO	Listening on port 50558
+1631763544134	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+1631763623063	Marionette	INFO	Stopped listening on port 50558
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+\Temp\\rust_mozprofileoIXEOu"
+1631763620274	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileoIXEOu\\search.json.mozlz4", (void 0)))
+1631763627831	Marionette	INFO	Listening on port 50672
+1631763628447	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ote" "-profile" "C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileClalYF"
+1631763717092	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileClalYF\\search.json.mozlz4", (void 0)))
+1631763722867	Marionette	INFO	Listening on port 50770
+1631763723227	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ote" "-profile" "C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofilekdzzCA"
+1631763817174	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofilekdzzCA\\search.json.mozlz4", (void 0)))
+1631763824810	Marionette	INFO	Listening on port 50881
+1631763824982	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ote" "-profile" "C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileCShSHu"
+1631763929286	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileCShSHu\\search.json.mozlz4", (void 0)))
+1631763935584	Marionette	INFO	Listening on port 50986
+1631763936378	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ote" "-profile" "C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofile3v5SNZ"
+1631764236809	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofile3v5SNZ\\search.json.mozlz4", (void 0)))
+1631764242441	Marionette	INFO	Listening on port 57964
+1631764242990	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ote" "-profile" "C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileND3uIy"
+1631764306392	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileND3uIy\\search.json.mozlz4", (void 0)))
+1631764314294	Marionette	INFO	Listening on port 58046
+1631764314488	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ote" "-profile" "C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofilevgwbNq"
+1631764695827	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofilevgwbNq\\search.json.mozlz4", (void 0)))
+1631764699433	Marionette	INFO	Listening on port 58448
+1631764699603	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1631895625526	geckodriver	INFO	Listening on 127.0.0.1:51568
+1631895628570	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileEwNQUM"
+1631895630204	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileEwNQUM\\search.json.mozlz4", (void 0)))
+1631895633631	Marionette	INFO	Listening on port 51576
+1631895634014	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+1631895760061	Marionette	INFO	Stopped listening on port 51571631895760203	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofile3ekpLP"
+1631895761096	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofile3ekpLP\\search.json.mozlz4", (void 0)))
+1631895763901	Marionette	INFO	Listening on port 61267
+1631895764087	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1631896397636	Marionette	INFO	Stopped listening on port 61267
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+\Temp\\rust_mozprofilepna9YX"
+1631896395573	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofilepna9YX\\search.json.mozlz4", (void 0)))
+1631896400956	Marionette	INFO	Listening on port 57828
+1631896401295	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+1631896577835	Marionette	INFO	Stopped listening on port 57828
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+\Temp\\rust_mozprofileR7NFHT"
+1631896573272	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileR7NFHT\\search.json.mozlz4", (void 0)))
+1631896576394	Marionette	INFO	Listening on port 64798
+1631896576917	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+1631896749644	Marionette	INFO	Stopped listening on port 64798
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] 1631896750705	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofile3Tc0y4\\search.json.mozlz4", (void 0)))
+1631896754152	Marionette	INFO	Listening on port 54603
+1631896754451	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1631897593483	Marionette	INFO	Stopped listening on port 54603
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+\Temp\\rust_mozprofileYjGac7"
+1631897587465	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileYjGac7\\search.json.mozlz4", (void 0)))
+1631897590129	Marionette	INFO	Listening on port 61031
+1631897590620	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1631913780174	Marionette	INFO	Stopped listening on port 61031
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+w profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofile6u4iBh\\search.json.mozlz4", (void 0)))
+1631913083732	Marionette	INFO	Listening on port 53729
+1631913084254	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1631913781833	Marionette	INFO	Stopped listening on port 53729
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+ile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofile6eKUWY\\search.json.mozlz4", (void 0)))
+1631913169109	Marionette	INFO	Listening on port 62258
+1631913169159	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1631913784823	Marionette	INFO	Stopped listening on port 62258
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ttings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofilenpnu3m\\search.json.mozlz4", (void 0)))
+1631913730998	Marionette	INFO	Listening on port 57309
+1631913731462	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+1631913786602	Marionette	INFO	Stopped listening on port 57309
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_untrustedmodules_ping
+785399	Marionette	INFO	Listening on port 52097
+1631913785694	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1631914488647	Marionette	INFO	Stopped listening on port 52097
+console.error: PushServiceWebSocket: 
+  _beginWSSetup: Not in shutdown state! Current state
+  2
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+ozprofilenlwoF3\\search.json.mozlz4", (void 0)))
+1631913854159	Marionette	INFO	Listening on port 55860
+1631913854426	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1631914491262	Marionette	INFO	Stopped listening on port 55860
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+\Temp\\rust_mozprofilerde6lb"
+1631914481330	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofilerde6lb\\search.json.mozlz4", (void 0)))
+1631914484100	Marionette	INFO	Listening on port 59401
+1631914484343	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+1631914609933	Marionette	INFO	Stopped listening on port 59401
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+\Temp\\rust_mozprofilesZABR9"
+1631914610999	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofilesZABR9\\search.json.mozlz4", (void 0)))
+1631914613616	Marionette	INFO	Listening on port 49658
+1631914613812	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1631916700650	Marionette	INFO	Stopped listening on port 49658
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 8752, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+INFO	Listening on port 52291
+1631914820552	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1631916703373	Marionette	INFO	Stopped listening on port 52291
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 3200, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+tings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofilek1Tx7Z\\search.json.mozlz4", (void 0)))
+1631916504041	Marionette	INFO	Listening on port 55043
+1631916504352	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+1631916704144	Marionette	INFO	Stopped listening on port 55043
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+\Temp\\rust_mozprofileX4rfvt"
+1631916694387	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileX4rfvt\\search.json.mozlz4", (void 0)))
+1631916697720	Marionette	INFO	Listening on port 58823
+1631916698033	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1631920168885	Marionette	INFO	Stopped listening on port 58823
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+\Temp\\rust_mozprofileZscfef"
+1631918539144	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileZscfef\\search.json.mozlz4", (void 0)))
+1631918542283	Marionette	INFO	Listening on port 49528
+1631918542432	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1631920170772	Marionette	INFO	Stopped listening on port 49528
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+ C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileats8Ev\\search.json.mozlz4", (void 0)))
+1631918582037	Marionette	INFO	Listening on port 59910
+1631918582178	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1631920172810	Marionette	INFO	Stopped listening on port 59910
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+\Temp\\rust_mozprofileuRiAbc"
+1631920161742	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileuRiAbc\\search.json.mozlz4", (void 0)))
+1631920165128	Marionette	INFO	Listening on port 50687
+1631920165338	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1631920881137	Marionette	INFO	Stopped listening on port 50687
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+\Temp\\rust_mozprofileFhMtDh"
+1631920701738	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileFhMtDh\\search.json.mozlz4", (void 0)))
+1631920704529	Marionette	INFO	Listening on port 59763
+1631920704954	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+1631920879296	Marionette	INFO	Stopped listening on port 59763
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+\Temp\\rust_mozprofilenZIJry"
+1631920785261	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofilenZIJry\\search.json.mozlz4", (void 0)))
+1631920788004	Marionette	INFO	Listening on port 55424
+1631920788459	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+1631920883002	Marionette	INFO	Stopped listening on port 55424
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+\Temp\\rust_mozprofileXpPQme"
+1631920873630	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileXpPQme\\search.json.mozlz4", (void 0)))
+1631920876751	Marionette	INFO	Listening on port 59366
+1631920876801	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://simon.inder.gov.co"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1632245077289	Marionette	INFO	Stopped listening on port 59366
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+ed for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1632243458787	Marionette	INFO	Stopped listening on port 55970
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+fileYc3WUO\\search.json.mozlz4", (void 0)))
+1631920967559	Marionette	INFO	Listening on port 56806
+1631920968019	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1632243450299	Marionette	INFO	Stopped listening on port 56806
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+filer5OD6A\\search.json.mozlz4", (void 0)))
+1631921025718	Marionette	INFO	Listening on port 57591
+1631921025986	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1632243454948	Marionette	INFO	Stopped listening on port 57591
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+fileS0Jqoz\\search.json.mozlz4", (void 0)))
+1631921282288	Marionette	INFO	Listening on port 57546
+1631921282761	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1632243460269	Marionette	INFO	Stopped listening on port 57546
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632244326606	geckodriver	INFO	Listening on 127.0.0.1:55041
+1632244329637	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileeqwZ4d"
+1632244330713	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileeqwZ4d\\search.json.mozlz4", (void 0)))
+1632244333950	Marionette	INFO	Listening on port 62370
+1632244334033	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1632245075888	Marionette	INFO	Stopped listening on port 62370
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+ile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofilecuTfFv\\search.json.mozlz4", (void 0)))
+1632244409184	Marionette	INFO	Listening on port 63788
+1632244409412	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1632245078594	Marionette	INFO	Stopped listening on port 63788
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+ile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileJscZO3\\search.json.mozlz4", (void 0)))
+1632244774512	Marionette	INFO	Listening on port 54653
+1632244774716	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+1632245079946	Marionette	INFO	Stopped listening on port 54653
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+\Temp\\rust_mozprofileZ7IGxI"
+1632244863352	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileZ7IGxI\\search.json.mozlz4", (void 0)))
+1632244866309	Marionette	INFO	Listening on port 60195
+1632244866453	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+1632245081376	Marionette	INFO	Stopped listening on port 60195
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+\Temp\\rust_mozprofilekaz6hd"
+1632245071009	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofilekaz6hd\\search.json.mozlz4", (void 0)))
+1632245074340	Marionette	INFO	Listening on port 60628
+1632245074604	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1632245691385	Marionette	INFO	Stopped listening on port 60628
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+ile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileNHms36\\search.json.mozlz4", (void 0)))
+1632245401430	Marionette	INFO	Listening on port 58856
+1632245401637	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+1632245693085	Marionette	INFO	Stopped listening on port 58856
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+\Temp\\rust_mozprofilex0G0Po"
+1632245640959	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofilex0G0Po\\search.json.mozlz4", (void 0)))
+1632245644658	Marionette	INFO	Listening on port 58970
+1632245644825	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+1632245694543	Marionette	INFO	Stopped listening on port 58970
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+\Temp\\rust_mozprofilebSSrG9"
+1632245684615	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofilebSSrG9\\search.json.mozlz4", (void 0)))
+1632245687287	Marionette	INFO	Listening on port 61764
+1632245687749	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1632247677223	Marionette	INFO	Stopped listening on port 61764
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+\Temp\\rust_mozprofileUHsTuf"
+1632247274751	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileUHsTuf\\search.json.mozlz4", (void 0)))
+1632247277521	Marionette	INFO	Listening on port 58451
+1632247277885	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+1632247675623	Marionette	INFO	Stopped listening on port 58451
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+\Temp\\rust_mozprofileMtjUew"
+1632247455209	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileMtjUew\\search.json.mozlz4", (void 0)))
+1632247458258	Marionette	INFO	Listening on port 57132
+1632247458753	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+1632247674008	Marionette	INFO	Stopped listening on port 57132
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+\Temp\\rust_mozprofileyA03CL"
+1632247570172	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileyA03CL\\search.json.mozlz4", (void 0)))
+1632247572840	Marionette	INFO	Listening on port 55296
+1632247573234	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+1632247668721	Marionette	INFO	Stopped listening on port 55296
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+\Temp\\rust_mozprofileJ83din"
+1632247649857	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileJ83din\\search.json.mozlz4", (void 0)))
+1632247653030	Marionette	INFO	Listening on port 55464
+1632247653451	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+1632247672475	Marionette	INFO	Stopped listening on port 55464
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632247774436	geckodriver	INFO	Listening on 127.0.0.1:57128
+1632247777448	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileRowl61"
+1632247778253	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileRowl61\\search.json.mozlz4", (void 0)))
+1632247780929	Marionette	INFO	Listening on port 57754
+1632247781181	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1632251593564	Marionette	INFO	Stopped listening on port 57754
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+ C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileyhPhKw\\search.json.mozlz4", (void 0)))
+1632248031911	Marionette	INFO	Listening on port 56584
+1632248031993	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1632251008974	Marionette	INFO	Stopped listening on port 56584
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+w profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofiledpiyiu\\search.json.mozlz4", (void 0)))
+1632250430136	Marionette	INFO	Listening on port 50952
+1632250430281	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1632251005074	Marionette	INFO	Stopped listening on port 50952
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+0)))
+1632250503495	Marionette	INFO	Listening on port 62191
+1632250503566	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+1632251010309	Marionette	INFO	Stopped listening on port 62191
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+\Temp\\rust_mozprofileY1fOl7"
+1632250561435	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileY1fOl7\\search.json.mozlz4", (void 0)))
+1632250564122	Marionette	INFO	Listening on port 58199
+1632250564606	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+1632251011889	Marionette	INFO	Stopped listening on port 58199
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632251192062	geckodriver	INFO	Listening on 127.0.0.1:51472
+1632251195098	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileYaHff1"
+1632251195678	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileYaHff1\\search.json.mozlz4", (void 0)))
+1632251198668	Marionette	INFO	Listening on port 49298
+1632251198930	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+1632251594870	Marionette	INFO	Stopped listening on port 49298
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+  Stack:
+    timedFetch/<@resource://services-common/kinto-http-client.js:549:22
+timedFetch@resource://services-common/kinto-http-client.js:527:20
+request@resource://services-common/kinto-http-client.js:613:41
+execute@resource://services-common/kinto-http-client.js:2400:44
+_fetchChangeset@resource://services-settings/RemoteSettingsClient.jsm:1069:22
+_importChanges@resource://services-settings/RemoteSettingsClient.jsm:921:20
+maybeSync@resource:1632251596219	Marionette	INFO	Stopped listening on port 51507
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 10352, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3900E6,name=PContent::Msg_GraphicsError) Channel closing: too late to send/recv, messages will be lost
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+4517	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1632252206050	Marionette	INFO	Stopped listening on port 60225
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+ile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileKvNidI\\search.json.mozlz4", (void 0)))
+1632251707142	Marionette	INFO	Listening on port 50735
+1632251707748	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+1632252203837	Marionette	INFO	Stopped listening on port 50735
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+\Temp\\rust_mozprofilecz2e2l"
+1632251738629	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofilecz2e2l\\search.json.mozlz4", (void 0)))
+1632251742105	Marionette	INFO	Listening on port 58587
+1632251742305	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+1632252207659	Marionette	INFO	Stopped listening on port 58587
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+\Temp\\rust_mozprofileXPqkds"
+1632252105108	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileXPqkds\\search.json.mozlz4", (void 0)))
+1632252108269	Marionette	INFO	Listening on port 50139
+1632252108733	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+1632252209486	Marionette	INFO	Stopped listening on port 50139
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+\Temp\\rust_mozprofileLuStkE"
+1632252160621	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileLuStkE\\search.json.mozlz4", (void 0)))
+1632252165205	Marionette	INFO	Listening on port 57251
+1632252165434	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+1632252211241	Marionette	INFO	Stopped listening on port 57251
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+\Temp\\rust_mozprofileB1UwPj"
+1632252204970	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileB1UwPj\\search.json.mozlz4", (void 0)))
+1632252211263	Marionette	INFO	Listening on port 62300
+1632252211650	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+1632252624407	Marionette	INFO	Stopped listening on port 62300
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+\Temp\\rust_mozprofileAgDaU6"
+1632252309900	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileAgDaU6\\search.json.mozlz4", (void 0)))
+1632252313263	Marionette	INFO	Listening on port 50382
+1632252313347	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+1632252622574	Marionette	INFO	Stopped listening on port 50382
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+\Temp\\rust_mozprofile4GRQ0J"
+1632252376408	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofile4GRQ0J\\search.json.mozlz4", (void 0)))
+1632252379347	Marionette	INFO	Listening on port 51415
+1632252379633	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1632255262787	Marionette	INFO	Stopped listening on port 51415
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 13612, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+44
+1632252502268	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1632255264079	Marionette	INFO	Stopped listening on port 58844
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+ C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileiHfjGS\\search.json.mozlz4", (void 0)))
+1632252628927	Marionette	INFO	Listening on port 53247
+1632252629190	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1632255265539	Marionette	INFO	Stopped listening on port 53247
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+\Temp\\rust_mozprofileDJUKmZ"
+1632254235268	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileDJUKmZ\\search.json.mozlz4", (void 0)))
+1632254238054	Marionette	INFO	Listening on port 61014
+1632254238183	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1632255267015	Marionette	INFO	Stopped listening on port 61014
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+ C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileGqoZP8\\search.json.mozlz4", (void 0)))
+1632254364788	Marionette	INFO	Listening on port 64654
+1632254365328	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1632255268277	Marionette	INFO	Stopped listening on port 64654
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 5128, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+502
+1632254474189	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1632255269880	Marionette	INFO	Stopped listening on port 62502
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+ C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofile6O8fBe\\search.json.mozlz4", (void 0)))
+1632254566645	Marionette	INFO	Listening on port 58901
+1632254567123	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1632255271720	Marionette	INFO	Stopped listening on port 58901
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+ile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileiJ6oEy\\search.json.mozlz4", (void 0)))
+1632254711910	Marionette	INFO	Listening on port 56032
+1632254712322	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1632255273266	Marionette	INFO	Stopped listening on port 56032
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+ile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofile5uY2BT\\search.json.mozlz4", (void 0)))
+1632254859139	Marionette	INFO	Listening on port 58256
+1632254859500	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+1632255274654	Marionette	INFO	Stopped listening on port 58256
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+\Temp\\rust_mozprofileR7B5JS"
+1632255068849	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileR7B5JS\\search.json.mozlz4", (void 0)))
+1632255072123	Marionette	INFO	Listening on port 49423
+1632255072470	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+1632255276888	Marionette	INFO	Stopped listening on port 49423
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+\Temp\\rust_mozprofilerZPO9h"
+1632255157056	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofilerZPO9h\\search.json.mozlz4", (void 0)))
+1632255161199	Marionette	INFO	Listening on port 56352
+1632255161454	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+1632255312663	Marionette	INFO	Stopped listening on port 56352
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+\Temp\\rust_mozprofileCeu9ca"
+1632255310029	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofileCeu9ca\\search.json.mozlz4", (void 0)))
+1632255314289	Marionette	INFO	Listening on port 50675
+1632255314968	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1632262144387	Marionette	INFO	Stopped listening on port 50675
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390156,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+on port 54953
+1632255459904	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1632262144539	Marionette	INFO	Stopped listening on port 54953
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390156,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+on port 49637
+1632255496563	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+1632255523349	Marionette	INFO	Stopped listening on port 49637
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1632255705927	geckodriver	INFO	Listening on 127.0.0.1:61682
+1632255708951	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofile29xIWG"
+1632255709619	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fity9\\AppData\\Local\\Temp\\rust_mozprofile29xIWG\\search.json.mozlz4", (void 0)))
+1632255712651	Marionette	INFO	Listening on port 57884
+1632255712711	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://simon.inder.gov.co/js/compiled/inder.js, line 544: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1632262144424	Marionette	INFO	Stopped listening on port 57884
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390156,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
